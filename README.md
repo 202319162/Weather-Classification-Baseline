@@ -1,4 +1,4 @@
-# Weather Classification Baseline：天气图像四分类从训练到 CPU 推理
+#睿抗-Weather Classification Baseline：天气图像四分类从训练到 CPU 推理
 
 这是一个面向图像分类比赛的 **天气图像四分类 Baseline 项目**。
 
