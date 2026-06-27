@@ -1,0 +1,8 @@
+torch
+torchvision
+timm==1.0.27
+scikit-learn
+tqdm
+pillow
+opencv-python
+numpy==1.26.4

@@ -1,0 +1,48 @@
+﻿# model weights
+*.pth
+*.pt
+*.onnx
+*.safetensors
+
+# datasets
+official_data/
+official_data_clean/
+official_data_external_dedup/
+external_data/
+data/
+datasets/
+
+# outputs
+results/
+outputs/
+runs/
+logs/
+checkpoints/
+wandb/
+duplicate_review/
+
+# compressed files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# env
+.env
+.venv/
+venv/
+conda-meta/
+
+# platform-specific
+packages/
+
+# system
+.DS_Store
+Thumbs.db
